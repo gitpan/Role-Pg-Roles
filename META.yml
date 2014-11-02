@@ -26,6 +26,7 @@ requires:
   DBI: '0'
   Digest::MD5: '0'
   Moose::Role: '0'
+  perl: '5.010'
 resources:
   repository: git://github.com/kaare/Role-Pg-Roles.git
-version: '0.001'
+version: '0.002'

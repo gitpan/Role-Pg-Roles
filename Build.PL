@@ -19,7 +19,7 @@ my %module_build_args = (
     "Kaare Rasmussen <kaare at cpan dot net>"
   ],
   "dist_name" => "Role-Pg-Roles",
-  "dist_version" => "0.001",
+  "dist_version" => "0.002",
   "license" => "perl",
   "module_name" => "Role::Pg::Roles",
   "recommends" => {},
@@ -28,7 +28,8 @@ my %module_build_args = (
     "DBD::Pg" => 3,
     "DBI" => 0,
     "Digest::MD5" => 0,
-    "Moose::Role" => 0
+    "Moose::Role" => 0,
+    "perl" => "5.010"
   },
   "script_files" => [],
   "test_requires" => {

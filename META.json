@@ -30,7 +30,8 @@
             "DBD::Pg" : "3",
             "DBI" : "0",
             "Digest::MD5" : "0",
-            "Moose::Role" : "0"
+            "Moose::Role" : "0",
+            "perl" : "5.010"
          }
       },
       "test" : {
@@ -53,6 +54,6 @@
          "web" : "http://github.com/kaare/Role-Pg-Roles"
       }
    },
-   "version" : "0.001"
+   "version" : "0.002"
 }
 
